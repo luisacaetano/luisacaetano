@@ -20,8 +20,9 @@
 
 ## 📈 Minhas Conquistas Acadêmicas
 
-- Desenvolvimento de Sistemas: Participei ativamente no desenvolvimento de um sistema de gerenciamento de projetos para a SEPPG do IFMG, validado e implementado na instituição.
-- Estágio: Atualmente estou estagiando no Polo de Inovação do IFMG, trabalhando em um projeto para uma certificadora da cidade de Formiga/MG, com foco na criação de ferramentas de gestão de atendimentos.
+- Estágio: Atualmente estou estagiando no Polo de Inovação do IFMG, trabalhando em um projeto para uma certificadora da cidade de Formiga, Minas Gerais, com foco na criação de ferramentas de gestão de atendimentos.
+- Desenvolvimento de um software em parceria com o Centro de Inovação e Tecnologia de Formiga (CITFOR) e a Secretaria de Saúde da cidade para otimização dos processos da folha de pagamento, utilizando JavaScript, MongoDB e Bootstrap.
+- Desenvolvimento de Sistemas: Meu projeto de TCC foi o desenvolvimento e implementação de um Sistema de Gerenciamento de Projetos para a SEPPG do IFMG – Campus Formiga, que foi validado e adotado pela instituição.
 
 ## 🌱 O que Estou Aprendendo
 
