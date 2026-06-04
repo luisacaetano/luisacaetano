@@ -1,35 +1,44 @@
-# Luisa Caetano Araújo
+# Hi, I'm Luisa Caetano
 
-👋 Olá! Sou Luisa Caetano, estudante de Bacharelado em Ciências da Computação no Instituto Federal de Minas Gerais (IFMG), Campus Formiga. Tenho uma grande paixão por tecnologia, com foco em desenvolvimento de software, programação web, e soluções inovadoras para o setor público e privado.
+Full Stack Developer from Brazil with experience in web development, process automation, and system integration.
 
-## 🚀 Sobre Mim
+## About Me
 
-- 🎓 Formação Acadêmica: Técnica em Informática pelo IFMG - Campus Formiga e atualmente cursando Bacharelado em Ciências da Computação no IFMG - Campus Formiga.
-- 💻 Habilidades: Tenho experiência prática em desenvolvimento web, com ênfase em Django, Python, JavaScript, React, Docker e MongoDB. Também estou sempre em busca de expandir meus conhecimentos e contribuir com soluções eficientes e de fácil usabilidade.
-- 🔍 Interesses: Desenvolvimento de software, programação mobile, e soluções para otimização de processos. Estou constantemente aprendendo novas tecnologias e buscando aplicar esses conhecimentos em projetos inovadores.
-- 🌟 Idiomas: Português (nativo) e Inglês (nível intermediário).
+- Computer Science student at IFMG (Federal Institute of Minas Gerais)
+- Currently developing **BikeFit AI** — an AI-powered postural analysis system for cyclists using computer vision and machine learning
+- I use AI tools (Claude Code) daily to improve my development workflow
 
-## 🛠️ Tecnologias & Ferramentas
+## Tech Stack
 
-- Linguagens: HTML, CSS, Java, PHP, JavaScript, C#, C, C++ e Angular.
-- Frameworks e Bibliotecas: Django, React, Laravel, Angular e Bootstrap.
-- Banco de Dados: SQL, MongoDB.
-- Ferramentas de Desenvolvimento: Git, GitHub, Docker, Android Studio, Hammer++ e Blender 3D.
-- Sistemas Operacionais: Linux, Windows, MacOS.
-- Áreas de Interesse: Desenvolvimento de Software, Programação Web, Programação Mobile, Otimização de Processos. 
+**Languages:** Python, JavaScript, TypeScript, PHP, SQL, MQL5, Bash
 
-## 📈 Minhas Conquistas Acadêmicas
+**Front-end:** React, Vite, Tailwind CSS
 
-- Estágio: Atualmente estou estagiando no Polo de Inovação do IFMG, trabalhando em um projeto para uma certificadora da cidade de Formiga, Minas Gerais, com foco na criação de ferramentas de gestão de atendimentos.
-- Desenvolvimento de um software em parceria com o Centro de Inovação e Tecnologia de Formiga (CITFOR) e a Secretaria de Saúde da cidade para otimização dos processos da folha de pagamento, utilizando JavaScript, MongoDB e Bootstrap.
-- Desenvolvimento de Sistemas: Meu projeto de TCC foi o desenvolvimento e implementação de um Sistema de Gerenciamento de Projetos para a SEPPG do IFMG – Campus Formiga, que foi validado e adotado pela instituição.
+**Back-end:** Django, FastAPI, Laravel, Node.js, REST APIs, WebSocket
 
-## 🌱 O que Estou Aprendendo
+**Databases:** PostgreSQL, Firebase, MongoDB, MySQL
 
-Atualmente, estou me aprofundando em programação mobile e em otimização de sistemas para automação de processos. Estou sempre em busca de novos desafios, especialmente no desenvolvimento de soluções inovadoras e eficientes.
+**AI/ML:** YOLOv8, OpenCV, Apple Vision Framework
 
-## 📫 Como Me Encontrar
+**DevOps:** Docker, Git, Vercel
 
-- LinkedIn: www.linkedin.com/in/luisa-caetano-8293b230b
-- GitHub: github.com/luisacaetano
+## Current Work
+
+- **Full Stack Developer** at IFMG Innovation Hub — Building Expert Advisors in MQL5 for automated trading strategies, implementing AI/ML models for financial market analysis
+- **Integrations Developer** at Ativa Certificadora — Implementing chatbots and automations connecting WhatsApp, email, and SMS via WhatsApp Cloud API
+
+## Featured Projects
+
+### BikeFit AI (Capstone Project - 2026)
+Automated postural analysis system for cyclists using Computer Vision and Machine Learning. Real-time pose detection with YOLOv8, FastAPI backend with WebSocket streaming (1.76ms latency), and injury risk assessment based on scientific literature.
+
+### Order Management System - Sicoob Credifor/CAMFOR (2025-2026)
+Complete web system for order management with AES-256 encryption for LGPD compliance. Selected for presentation at IFMG Network. Scientific article in publication process.
+
+### Customer Service Management System - SINC Certificadora (2024-2025)
+Intuitive interfaces with UX/UI focus, integrated Intelligent Virtual Assistant, ticket center, scheduling system, and automated emails.
+
+## Contact
+
 - Email: lluisacaetanoaraujo@gmail.com
+- LinkedIn: [linkedin.com/in/luisa-caetano-8293b230b](https://www.linkedin.com/in/luisa-caetano-8293b230b)
