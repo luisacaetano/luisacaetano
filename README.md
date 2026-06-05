@@ -42,3 +42,4 @@ Intuitive interfaces with UX/UI focus, integrated Intelligent Virtual Assistant,
 
 - Email: lluisacaetanoaraujo@gmail.com
 - LinkedIn: [linkedin.com/in/luisa-caetano-8293b230b](https://www.linkedin.com/in/luisa-caetano-8293b230b)
+
